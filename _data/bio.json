@@ -1,11 +1,11 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Fabien ABADJA",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
+    "picture": "https://fabadja.github.io/template/images/fabadja.png",
+    "email": "fabadja@laposte.net",
     "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
+    "website": "https://fabadja.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
@@ -17,23 +17,23 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "fabadja",
+        "url": "http://github.com/fabadja"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "fabadja",
+        "url": "http://linkedin.com/in/fabadja"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "fabadja",
+        "url": "http://twitter.com/fabadja"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "fabadja",
+        "url": "http://instagram.com/fabadja"
       }
     ]
   },
