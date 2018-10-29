@@ -1,4 +1,4 @@
-# Technical Portfolio
+# Portfolio Technique
 
 Basé sur un tuto provenant de [TechFolio](http://techfolios.github.io). 
 
