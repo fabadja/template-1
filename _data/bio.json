@@ -1,4 +1,4 @@
-{
+o{
   "basics": {
     "name": "Fabien ABADJA",
     "label": "Technicien Informatique",
@@ -39,7 +39,7 @@
   },
   "passions": [
     {
-      "name": "objets connectés",
+      "name": "connected objects",
       "keywords": [
         "Alix boards",
         "Amazon Echo",
