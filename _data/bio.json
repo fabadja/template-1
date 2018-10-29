@@ -1,4 +1,4 @@
-o{
+{
   "basics": {
     "name": "Fabien ABADJA",
     "label": "Technicien Informatique",
@@ -37,22 +37,21 @@ o{
       }
     ]
   },
-  "passions": [
+  "interests": [
     {
-      "name": "connected objects",
+      "name": "internet of things",
       "keywords": [
-        "Alix boards",
-        "Amazon Echo",
-        "RaspBerry Pi"
+        "Arduino",
+        "TI MSP430"
       ]
     },
     {
-      "name": "veille Internet",
+      "name": "data mining",
       "keywords": [
       ]
     },
     {
-      "name": "intelligence artificielle",
+      "name": "artificial intelligence",
       "keywords": [
       ]
     }
@@ -62,18 +61,20 @@ o{
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
+        "C",
         "C++",
-        "Python",
-        "Batch",
-        "Javascript"
+        "Java",
+        "Javascript",
+        "Assembly",
+        "Common Lisp"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "WinXP/7/10",
-        "Debian/Ubuntu",
+        "MacOS",
+        "Ubuntu",
         "Git/GitHub",
         "g++",
         "TI LaunchPad"
