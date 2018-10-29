@@ -1,18 +1,18 @@
 {
   "basics": {
     "name": "Fabien ABADJA",
-    "label": "Student",
+    "label": "Technicien informatique",
     "picture": "https://fabadja.github.io/images/fabadja.png",
     "email": "fabadja@laposte.net",
-    "phone": "808-333-4444",
+    "phone": "(+33)626-060-812",
     "website": "https://fabadja.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "summary": "En poste depuis 2014 en tant que Technicien Territorial spécialité Informatique pour le Département de la Creuse",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "23000",
+      "city": "Guéret",
+      "countryCode": "FR",
+      "region": "Limousin"
     },
     "profiles": [
       {
