@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Fabien ABADJA",
-    "label": "Technicien informatique",
+    "label": "Technicien Informatique",
     "picture": "https://fabadja.github.io/images/fabadja.png",
     "email": "fabadja@laposte.net",
     "phone": "(+33)626-060-812",
@@ -61,20 +61,18 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
         "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python",
+        "Batch",
+        "Javascript"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
+        "WinXP/7/10",
+        "Debian/Ubuntu",
         "Git/GitHub",
         "g++",
         "TI LaunchPad"
