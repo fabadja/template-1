@@ -39,19 +39,20 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "les connectés de l'Internet",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Alix boards",
+        "Amazon Echo",
+        "RaspBerry Pi"
       ]
     },
     {
-      "name": "data mining",
+      "name": "veille Internet",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "intelligence artificielle",
       "keywords": [
       ]
     }
